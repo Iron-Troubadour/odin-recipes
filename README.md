@@ -1,1 +1,1 @@
-This project will be an excercise in HTMl to build a recipe webpage.
+This project will be an excercise in HTMl to build a recipe webpage. This will require practiving HTML programming as well as using github. 
