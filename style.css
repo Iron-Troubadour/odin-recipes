@@ -1,0 +1,16 @@
+h1{
+    font-family: cursive;
+    font-size: 100px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+body{
+    background-color: tan;
+}
